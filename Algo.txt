@@ -1,2 +1,9 @@
-Step 1: Order the Pizza
-Step 2 : Wait for the delivery
+Step 1: Pick a size
+Step 2: Picka Crust
+Step 3: Pick a Sauce
+Step 4: Pick your toppings
+Step 5: Choose your payment method
+Step 6: Choose pickup or delivery
+  If pickup, go to the pizza shop
+  IF pickup, wait for the delivery
+Step 7: Enjoy and eat pizza.
