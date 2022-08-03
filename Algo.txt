@@ -7,3 +7,5 @@ Step 6: Choose pickup or delivery
   If pickup, go to the pizza shop
   IF pickup, wait for the delivery
 Step 7: Enjoy and eat pizza.
+
+Wanted to update file for practice
